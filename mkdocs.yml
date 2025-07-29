@@ -1,0 +1,19 @@
+site_name: Auto Receipt Printer Docs
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+
+nav:
+  - Home: index.md
+  - Startup: Starting The Program.md
+  - Setup:
+      - Installation: Getting Set Up.md
+      - Changing Creds: Changing Credentials.md
+      - Changing Sheets: Changing Sheets.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your/repo
